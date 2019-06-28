@@ -13,7 +13,7 @@ class Dog
     @name = name
   end 
   
-  def barkg
+  def bark
     @bark 
   end 
   
