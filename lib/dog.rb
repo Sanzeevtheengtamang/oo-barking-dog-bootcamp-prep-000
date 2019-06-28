@@ -9,7 +9,7 @@ class Dog
     @name
   end 
   
-  def names(name) #setter
+  def name=(name) #setter
     @name = name
   end 
   
