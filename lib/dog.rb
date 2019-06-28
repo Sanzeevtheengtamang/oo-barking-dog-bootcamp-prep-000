@@ -5,7 +5,7 @@ class Dog
     @bark = bark
   end 
   
-  def nameg #getter
+  def name #getter
     @name
   end 
   
